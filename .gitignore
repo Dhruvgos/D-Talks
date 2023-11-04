@@ -7,10 +7,12 @@
 
 # testing
 /coverage
-
+firebaserc
+firebase-debug.log
 # production
 /build
-
+/.firebase
+firebase.json
 # misc
 .DS_Store
 .env.local
